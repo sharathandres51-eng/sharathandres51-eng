@@ -50,7 +50,7 @@
 
 | Project | Description |
 | --- | --- |
-| **[Eligibility Agent — CTTI](https://github.com/sharathandres51-eng/eligibility-agent-ctti)** | LLM agent that screens patient eligibility for clinical trials against CTTI criteria — Python |
+| **[Procurement Agent — CTTI](https://github.com/sharathandres51-eng/procurement-agent-ctti)** | Agentic AI workflow that acts as a procurement assistant system for officers to improve efficiency while sanctioning tenders |
 | **[Portfolio Manager (S3 + Lambda)](https://github.com/sharathandres51-eng/portfolio-manager-group14-s3-lambda)** | Serverless portfolio management pipeline on AWS — S3 storage + Lambda compute, group cloud project |
 | **[SofaScore Prototype](https://github.com/sharathandres51-eng/sharath-sofascore-prototype)** | Sports-analytics prototype that ingests SofaScore data and surfaces match insights — Python |
 | **[Study Tour Recommendation API](https://github.com/sharathandres51-eng/sharath-study-tour-api)** | Travel-recommendation API that suggests destinations based on a user's budget — Python |
