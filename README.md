@@ -31,9 +31,9 @@ AI assisted tender evaluation implementing the Spanish 3 envelope PCAP model. Ev
 
 ---
 
-## Tools I'd defend in an interview
+## Skills
 
-**Languages** Python, Java, SQL, R
+**Languages** Python, Java, SQL, R, TypeScript, React
 **Cloud and backend** AWS (Lambda, Aurora, S3, DMS, EventBridge, SQS, SNS, CloudFormation, Fargate, ECS, SageMaker), Docker
 **AI** LangGraph, LangSmith, RAG, agentic workflows, LLM API integration (GPT-4o-mini, Mistral)
 **Frameworks** FastAPI, Flask, SpringBoot, pandas, scikit-learn, pytest, Boto3
